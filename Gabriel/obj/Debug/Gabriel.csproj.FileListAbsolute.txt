@@ -1,0 +1,7 @@
+C:\Users\danny\OneDrive\Escritorio\Gabriel\Gabriel\bin\Debug\Gabriel.exe.config
+C:\Users\danny\OneDrive\Escritorio\Gabriel\Gabriel\bin\Debug\Gabriel.exe
+C:\Users\danny\OneDrive\Escritorio\Gabriel\Gabriel\bin\Debug\Gabriel.pdb
+C:\Users\danny\OneDrive\Escritorio\Gabriel\Gabriel\obj\Debug\Gabriel.csproj.AssemblyReference.cache
+C:\Users\danny\OneDrive\Escritorio\Gabriel\Gabriel\obj\Debug\Gabriel.csproj.CoreCompileInputs.cache
+C:\Users\danny\OneDrive\Escritorio\Gabriel\Gabriel\obj\Debug\Gabriel.exe
+C:\Users\danny\OneDrive\Escritorio\Gabriel\Gabriel\obj\Debug\Gabriel.pdb
