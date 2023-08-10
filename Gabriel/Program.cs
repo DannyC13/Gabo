@@ -11,7 +11,7 @@ namespace Gabriel
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hola Gabo");
+            Console.WriteLine("Hola Gabo lindo");
             Console.ReadKey();
         }
 
